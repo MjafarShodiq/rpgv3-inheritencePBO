@@ -8,4 +8,4 @@
   - Membuat super class yaitu class Karakter.
   - Class NPC dan class Player menjadi subclass dari super class Karakter.
   - Pada method pilihanAksi ada kode yang tidak digunakan, karena fungsinya 
-    sudah tergantikan dengan menggunakan  konsep Polymorphism
+    sudah tergantikan dengan menggunakan  konsep Polymorphism.
