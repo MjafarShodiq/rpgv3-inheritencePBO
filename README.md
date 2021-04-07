@@ -7,5 +7,5 @@
   - Atribut dan beberap method tidak dipaki karena sudah ada di super class.
   - Membuat super class yaitu class Karakter.
   - Class NPC dan class Player menjadi subclass dari super class Karakter.
-  - Pada method pilihanAksi ada kode yang tidak digunakan, karena fungsinya 
+  - Pada class ruangan method pilihanAksi pada kode untuk print pintu tidak digunakan
     sudah tergantikan dengan menggunakan  konsep Polymorphism.
